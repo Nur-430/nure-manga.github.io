@@ -1,0 +1,2 @@
+# NuRE
+Web manga reader
